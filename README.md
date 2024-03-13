@@ -1,8 +1,8 @@
-*Celestial Thunder Glade 
+*Celestial Thunder Glade**
 
-**Integrantes
--Pablo Lopez
--Isaac Pineda
+**Integrantes**
+-    Pablo Lopez
+-    Isaac Pineda
 
 **La Leyenda de los Elementos Celestiales**
 
