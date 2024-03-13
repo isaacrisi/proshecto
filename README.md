@@ -1,4 +1,4 @@
-*Celestial Thunder Glade**
+**Celestial Thunder Glade**
 
 **Integrantes**
 -    Pablo Lopez
