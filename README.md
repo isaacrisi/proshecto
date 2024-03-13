@@ -1,3 +1,9 @@
+#Celestial Thunder Glade 
+
+##Integrantes
+-Pablo Lopez
+-Isaac Pineda
+
 **La Leyenda de los Elementos Celestiales**
 
 Hace milenios, en un tiempo olvidado, el mundo estaba en peligro. Las fuerzas de la oscuridad amenazaban con sumir todo en un caos eterno. En respuesta a esta amenaza, los antiguos sabios invocaron la ayuda de los dioses para salvar el mundo.
