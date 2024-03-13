@@ -1,6 +1,6 @@
-#Celestial Thunder Glade 
+*Celestial Thunder Glade 
 
-##Integrantes
+**Integrantes
 -Pablo Lopez
 -Isaac Pineda
 
