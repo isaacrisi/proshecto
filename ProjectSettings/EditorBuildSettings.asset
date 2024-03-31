@@ -140,4 +140,20 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Juego/Scenes/GameOver.unity
     guid: 465682a789b8d5f4098f2c4bc93a0484
+  - enabled: 1
+    path: Assets/Juego/Scenes/Nivel 1.unity
+    guid: a6fbb9ebbda760e419dd6b4666526d78
+  - enabled: 1
+    path: Assets/Juego/Scenes/MenuPrincipal.unity
+    guid: 01961a75e11a4db48a110d2fa2cd1331
+  - enabled: 1
+    path: Assets/Juego/Scenes/Win.unity
+    guid: 0c3bdfb12dcba19418f9f5c1eae2e080
+  - enabled: 1
+    path: Assets/Juego/Scenes/Creditos.unity
+    guid: b34a37ebc5b9f4f4794c875396a9ab94
+  - enabled: 1
+    path: Assets/Juego/Scenes/Instrucciones.unity
+    guid: 0b1f78c0a7a76f94aad58ec5527224f9
   m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
