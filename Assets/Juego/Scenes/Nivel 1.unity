@@ -4517,8 +4517,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   AutomaticallyUnparentOnAwake: 1
   TargetFrameRate: 300
-  MaximumLives: 20
-  CurrentLives: 20
+  MaximumLives: 3
+  CurrentLives: 3
   GameOverScene: GameOver
   Points: 0
   PauseGameWhenInventoryOpens: 1
