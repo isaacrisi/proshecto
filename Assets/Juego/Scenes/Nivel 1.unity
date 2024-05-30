@@ -5349,7 +5349,7 @@ MonoBehaviour:
   AutomaticallyUnparentOnAwake: 1
   TargetFrameRate: 300
   MaximumLives: 3
-  CurrentLives: 3
+  CurrentLives: 2
   GameOverScene: GameOver
   Points: 0
   PauseGameWhenInventoryOpens: 1
@@ -7962,13 +7962,13 @@ MonoBehaviour:
   CycleOption: 2
   LoopInitialMovementDirection: 0
   PathElements:
-  - PathElementPosition: {x: -4.141716, y: 11.096391, z: 2.9970322}
+  - PathElementPosition: {x: 3.7322998, y: 12.041273, z: 2.9960938}
     Delay: 0
-  - PathElementPosition: {x: 22.559181, y: 1.4424438, z: -1.3176985}
+  - PathElementPosition: {x: 14.212727, y: 9.631418, z: -1.3183594}
     Delay: 0
-  - PathElementPosition: {x: 22.297375, y: -0.92681503, z: -1.6963129}
+  - PathElementPosition: {x: 21.824932, y: 3.115179, z: -1.6972656}
     Delay: 0
-  ReferenceMMPath: {fileID: 0}
+  ReferenceMMPath: {fileID: 943379854}
   AbsoluteReferencePath: 0
   MinDistanceToGoal: 0.1
   LockHandlesOnXAxis: 0
@@ -8305,15 +8305,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   data:
   - tiempoSalida: 0
-    cantidad: 2
+    cantidad: 1
     prefab: {fileID: 1498750440386690, guid: d59a856dda35f714faf0f1e052666033, type: 3}
     ruta: {fileID: 943379854}
-  - tiempoSalida: 10
-    cantidad: 3
+  - tiempoSalida: 5
+    cantidad: 1
     prefab: {fileID: 1561694053617324, guid: 2a2a535b3c27a86439a7f760532fad45, type: 3}
     ruta: {fileID: 943379854}
   - tiempoSalida: 25
-    cantidad: 8
+    cantidad: 1
     prefab: {fileID: 6311937572946013165, guid: ec4bf1d61dc1a2246bf027cb9fb8c481,
       type: 3}
     ruta: {fileID: 943379854}
@@ -12934,7 +12934,7 @@ MonoBehaviour:
   CycleOption: 2
   LoopInitialMovementDirection: 0
   PathElements:
-  - PathElementPosition: {x: 1.5180397, y: 13.744406, z: 0.38603783}
+  - PathElementPosition: {x: 1.6151142, y: 12.288244, z: 0.38671875}
     Delay: 0
   - PathElementPosition: {x: 0.4661579, y: -0.8780689, z: 1.6595802}
     Delay: 0
@@ -12946,7 +12946,7 @@ MonoBehaviour:
     Delay: 0
   - PathElementPosition: {x: 22.754322, y: -1.4769173, z: -1.1343279}
     Delay: 0
-  ReferenceMMPath: {fileID: 0}
+  ReferenceMMPath: {fileID: 1509456631}
   AbsoluteReferencePath: 0
   MinDistanceToGoal: 0.1
   LockHandlesOnXAxis: 0
@@ -14105,7 +14105,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   data:
   - tiempoSalida: 0
-    cantidad: 5
+    cantidad: 2
     prefab: {fileID: 6311937572946013165, guid: ec4bf1d61dc1a2246bf027cb9fb8c481,
       type: 3}
     ruta: {fileID: 1675283314}
@@ -14165,15 +14165,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   data:
   - tiempoSalida: 0
-    cantidad: 3
+    cantidad: 1
     prefab: {fileID: 1498750440386690, guid: d59a856dda35f714faf0f1e052666033, type: 3}
     ruta: {fileID: 1675283314}
   - tiempoSalida: 15
-    cantidad: 6
+    cantidad: 0
     prefab: {fileID: 1561694053617324, guid: 2a2a535b3c27a86439a7f760532fad45, type: 3}
     ruta: {fileID: 1509456631}
   - tiempoSalida: 15
-    cantidad: 9
+    cantidad: 5
     prefab: {fileID: 1561694053617324, guid: 2a2a535b3c27a86439a7f760532fad45, type: 3}
     ruta: {fileID: 1509456631}
   tiempo_entre_olas: 0
@@ -14533,7 +14533,7 @@ MonoBehaviour:
     Delay: 0
   - PathElementPosition: {x: 23.556173, y: -0.5915203, z: 0}
     Delay: 0
-  ReferenceMMPath: {fileID: 0}
+  ReferenceMMPath: {fileID: 1675283314}
   AbsoluteReferencePath: 0
   MinDistanceToGoal: 0.1
   LockHandlesOnXAxis: 0
