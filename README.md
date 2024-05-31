@@ -1,7 +1,7 @@
 **Celestial Thunder Glade**
 
 **Integrantes**
--    Pablo Lopez
+-    Sofia Vélez 
 -    Isaac Pineda
 
 **La Leyenda de los Elementos Celestiales**
