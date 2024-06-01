@@ -15614,13 +15614,23 @@ MonoBehaviour:
   CycleOption: 2
   LoopInitialMovementDirection: 0
   PathElements:
-  - PathElementPosition: {x: -0.21008492, y: 8.594294, z: 0}
+  - PathElementPosition: {x: -0.49713707, y: -2.0840712, z: 0}
     Delay: 0
-  - PathElementPosition: {x: 16.109844, y: -0.14523888, z: 0}
+  - PathElementPosition: {x: 6.350048, y: -1.5230923, z: 0}
     Delay: 0
-  - PathElementPosition: {x: 22.703625, y: -0.19822598, z: 0}
+  - PathElementPosition: {x: 6.6286697, y: 0.37588024, z: 0}
     Delay: 0
-  - PathElementPosition: {x: 23.709763, y: 10.581823, z: 0}
+  - PathElementPosition: {x: 11.710957, y: 0.30533314, z: 0}
+    Delay: 0
+  - PathElementPosition: {x: 11.825779, y: -1.8188581, z: 0}
+    Delay: 0
+  - PathElementPosition: {x: 15.614876, y: -1.7040367, z: 0}
+    Delay: 0
+  - PathElementPosition: {x: 15.614876, y: -0.32618237, z: 0}
+    Delay: 0
+  - PathElementPosition: {x: 23.480124, y: -0.44100285, z: 0}
+    Delay: 0
+  - PathElementPosition: {x: 23.939407, y: 11.385573, z: 0}
     Delay: 0
   ReferenceMMPath: {fileID: 0}
   AbsoluteReferencePath: 0
