@@ -1,7 +1,7 @@
 # Celestial Thunder Glade.
 
 ## Integrantes
-- Sofia Vélez 
+- Sofía Vélez 
 - Isaac Pineda
 
 ## La Leyenda de los Elementos Celestiales
