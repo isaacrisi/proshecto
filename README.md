@@ -1,4 +1,4 @@
-**Celestial Thunder Glade** olaa :D
+**Celestial Thunder Glade**
 
 **Integrantes**
 -    Sofia Vélez 
