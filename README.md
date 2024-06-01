@@ -1,9 +1,5 @@
 **Celestial Thunder Glade**
 
-<<<<<<< HEAD
-
-=======
->>>>>>> b1820eee9573cb7b8f15de68b14e1b804bf03cd3
 **Integrantes**
 -    Sofia Vélez 
 -    Isaac Pineda
