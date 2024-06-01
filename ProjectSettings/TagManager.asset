@@ -33,7 +33,11 @@ TagManager:
   - Camera2
   - Camera3
   - Camera4
+<<<<<<< HEAD
   - 
+=======
+  - Fondo
+>>>>>>> b1820eee9573cb7b8f15de68b14e1b804bf03cd3
   - 
   - 
   - 
@@ -46,9 +50,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+<<<<<<< HEAD
   - name: Background
     uniqueID: 1798043625
     locked: 0
+=======
+  - name: Fondo
+    uniqueID: 1798043625
+    locked: 1
+>>>>>>> b1820eee9573cb7b8f15de68b14e1b804bf03cd3
   - name: Ground
     uniqueID: 2296623839
     locked: 0

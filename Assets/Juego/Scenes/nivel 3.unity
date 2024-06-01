@@ -2808,6 +2808,7 @@ MonoBehaviour:
   CycleOption: 2
   LoopInitialMovementDirection: 0
   PathElements:
+<<<<<<< HEAD
   - PathElementPosition: {x: 3.158163, y: 10.307634, z: 0}
     Delay: 0
   - PathElementPosition: {x: 3.1891441, y: -5.5848093, z: 0}
@@ -2817,6 +2818,17 @@ MonoBehaviour:
   - PathElementPosition: {x: 16.856783, y: 0.12534046, z: 0}
     Delay: 0
   - PathElementPosition: {x: 23.335808, y: -0.11095238, z: 0}
+=======
+  - PathElementPosition: {x: -1.814846, y: 1.436863, z: 0}
+    Delay: 0
+  - PathElementPosition: {x: 5.653248, y: 8.079763, z: 0}
+    Delay: 0
+  - PathElementPosition: {x: 9.03521, y: -6.2045126, z: 0}
+    Delay: 0
+  - PathElementPosition: {x: 14.39268, y: 6.4872065, z: 0}
+    Delay: 0
+  - PathElementPosition: {x: 23.156603, y: -0.46936798, z: 0}
+>>>>>>> b1820eee9573cb7b8f15de68b14e1b804bf03cd3
     Delay: 0
   - PathElementPosition: {x: 23.656725, y: 11.038575, z: 0}
     Delay: 0
@@ -8514,6 +8526,44 @@ MonoBehaviour:
     prefab: {fileID: 6311937572946013165, guid: ec4bf1d61dc1a2246bf027cb9fb8c481,
       type: 3}
     ruta: {fileID: 2003972629}
+<<<<<<< HEAD
+=======
+  - tiempoSalida: 6
+    cantidad: 3
+    prefab: {fileID: 6311937572946013165, guid: ec4bf1d61dc1a2246bf027cb9fb8c481,
+      type: 3}
+    ruta: {fileID: 2003972629}
+  - tiempoSalida: 6
+    cantidad: 3
+    prefab: {fileID: 6311937572946013165, guid: ec4bf1d61dc1a2246bf027cb9fb8c481,
+      type: 3}
+    ruta: {fileID: 2003972629}
+  - tiempoSalida: 6
+    cantidad: 3
+    prefab: {fileID: 6311937572946013165, guid: ec4bf1d61dc1a2246bf027cb9fb8c481,
+      type: 3}
+    ruta: {fileID: 2003972629}
+  - tiempoSalida: 6
+    cantidad: 3
+    prefab: {fileID: 6311937572946013165, guid: ec4bf1d61dc1a2246bf027cb9fb8c481,
+      type: 3}
+    ruta: {fileID: 2003972629}
+  - tiempoSalida: 6
+    cantidad: 3
+    prefab: {fileID: 6311937572946013165, guid: ec4bf1d61dc1a2246bf027cb9fb8c481,
+      type: 3}
+    ruta: {fileID: 2003972629}
+  - tiempoSalida: 6
+    cantidad: 3
+    prefab: {fileID: 6311937572946013165, guid: ec4bf1d61dc1a2246bf027cb9fb8c481,
+      type: 3}
+    ruta: {fileID: 2003972629}
+  - tiempoSalida: 6
+    cantidad: 3
+    prefab: {fileID: 6311937572946013165, guid: ec4bf1d61dc1a2246bf027cb9fb8c481,
+      type: 3}
+    ruta: {fileID: 2003972629}
+>>>>>>> b1820eee9573cb7b8f15de68b14e1b804bf03cd3
   tiempo_entre_olas: 20
   PuedeAgregarButton: 0
 --- !u!4 &1002417115 stripped
@@ -13870,6 +13920,37 @@ MonoBehaviour:
     cantidad: 6
     prefab: {fileID: 1498750440386690, guid: d59a856dda35f714faf0f1e052666033, type: 3}
     ruta: {fileID: 271402966}
+<<<<<<< HEAD
+=======
+  - tiempoSalida: 10
+    cantidad: 6
+    prefab: {fileID: 1498750440386690, guid: d59a856dda35f714faf0f1e052666033, type: 3}
+    ruta: {fileID: 271402966}
+  - tiempoSalida: 10
+    cantidad: 6
+    prefab: {fileID: 1498750440386690, guid: d59a856dda35f714faf0f1e052666033, type: 3}
+    ruta: {fileID: 271402966}
+  - tiempoSalida: 10
+    cantidad: 6
+    prefab: {fileID: 1498750440386690, guid: d59a856dda35f714faf0f1e052666033, type: 3}
+    ruta: {fileID: 271402966}
+  - tiempoSalida: 10
+    cantidad: 6
+    prefab: {fileID: 1498750440386690, guid: d59a856dda35f714faf0f1e052666033, type: 3}
+    ruta: {fileID: 271402966}
+  - tiempoSalida: 10
+    cantidad: 6
+    prefab: {fileID: 1498750440386690, guid: d59a856dda35f714faf0f1e052666033, type: 3}
+    ruta: {fileID: 271402966}
+  - tiempoSalida: 10
+    cantidad: 6
+    prefab: {fileID: 1498750440386690, guid: d59a856dda35f714faf0f1e052666033, type: 3}
+    ruta: {fileID: 271402966}
+  - tiempoSalida: 10
+    cantidad: 6
+    prefab: {fileID: 1498750440386690, guid: d59a856dda35f714faf0f1e052666033, type: 3}
+    ruta: {fileID: 271402966}
+>>>>>>> b1820eee9573cb7b8f15de68b14e1b804bf03cd3
   tiempo_entre_olas: 20
   PuedeAgregarButton: 0
 --- !u!1 &1605677417
@@ -13929,6 +14010,37 @@ MonoBehaviour:
     cantidad: 6
     prefab: {fileID: 1498750440386690, guid: d59a856dda35f714faf0f1e052666033, type: 3}
     ruta: {fileID: 1775695257}
+<<<<<<< HEAD
+=======
+  - tiempoSalida: 15
+    cantidad: 6
+    prefab: {fileID: 1498750440386690, guid: d59a856dda35f714faf0f1e052666033, type: 3}
+    ruta: {fileID: 1775695257}
+  - tiempoSalida: 15
+    cantidad: 6
+    prefab: {fileID: 1498750440386690, guid: d59a856dda35f714faf0f1e052666033, type: 3}
+    ruta: {fileID: 1775695257}
+  - tiempoSalida: 15
+    cantidad: 6
+    prefab: {fileID: 1498750440386690, guid: d59a856dda35f714faf0f1e052666033, type: 3}
+    ruta: {fileID: 1775695257}
+  - tiempoSalida: 15
+    cantidad: 6
+    prefab: {fileID: 1498750440386690, guid: d59a856dda35f714faf0f1e052666033, type: 3}
+    ruta: {fileID: 1775695257}
+  - tiempoSalida: 15
+    cantidad: 6
+    prefab: {fileID: 1498750440386690, guid: d59a856dda35f714faf0f1e052666033, type: 3}
+    ruta: {fileID: 1775695257}
+  - tiempoSalida: 15
+    cantidad: 6
+    prefab: {fileID: 1498750440386690, guid: d59a856dda35f714faf0f1e052666033, type: 3}
+    ruta: {fileID: 1775695257}
+  - tiempoSalida: 15
+    cantidad: 6
+    prefab: {fileID: 1498750440386690, guid: d59a856dda35f714faf0f1e052666033, type: 3}
+    ruta: {fileID: 1775695257}
+>>>>>>> b1820eee9573cb7b8f15de68b14e1b804bf03cd3
   tiempo_entre_olas: 0
   PuedeAgregarButton: 0
 --- !u!4 &1611048998 stripped
@@ -15512,6 +15624,7 @@ MonoBehaviour:
   CycleOption: 2
   LoopInitialMovementDirection: 0
   PathElements:
+<<<<<<< HEAD
   - PathElementPosition: {x: -0.21008492, y: 8.594294, z: 0}
     Delay: 0
   - PathElementPosition: {x: 16.109844, y: -0.14523888, z: 0}
@@ -15519,6 +15632,15 @@ MonoBehaviour:
   - PathElementPosition: {x: 22.703625, y: -0.19822598, z: 0}
     Delay: 0
   - PathElementPosition: {x: 23.709763, y: 10.581823, z: 0}
+=======
+  - PathElementPosition: {x: 11.483202, y: 9.311125, z: 0}
+    Delay: 0
+  - PathElementPosition: {x: 6.74625, y: -0.100437164, z: 0}
+    Delay: 0
+  - PathElementPosition: {x: 21.897192, y: -5.753661, z: 0}
+    Delay: 0
+  - PathElementPosition: {x: 23.70976, y: 10.940241, z: 0}
+>>>>>>> b1820eee9573cb7b8f15de68b14e1b804bf03cd3
     Delay: 0
   ReferenceMMPath: {fileID: 0}
   AbsoluteReferencePath: 0
@@ -17385,6 +17507,7 @@ MonoBehaviour:
   CycleOption: 2
   LoopInitialMovementDirection: 0
   PathElements:
+<<<<<<< HEAD
   - PathElementPosition: {x: -1.6388111, y: -3.4070082, z: 0}
     Delay: 0
   - PathElementPosition: {x: 6.40378, y: -3.7568693, z: 0}
@@ -17392,6 +17515,15 @@ MonoBehaviour:
   - PathElementPosition: {x: 7.0646706, y: -0.5669794, z: 0}
     Delay: 0
   - PathElementPosition: {x: 22.891, y: -1.2525225, z: 0}
+=======
+  - PathElementPosition: {x: 15.296299, y: 9.361525, z: 0}
+    Delay: 0
+  - PathElementPosition: {x: 20.516375, y: 3.3666296, z: 0}
+    Delay: 0
+  - PathElementPosition: {x: 0.030776978, y: -6.0328093, z: 0}
+    Delay: 0
+  - PathElementPosition: {x: 22.846199, y: -2.238163, z: 0}
+>>>>>>> b1820eee9573cb7b8f15de68b14e1b804bf03cd3
     Delay: 0
   - PathElementPosition: {x: 23.605366, y: 10.891651, z: 0}
     Delay: 0
